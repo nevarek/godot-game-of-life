@@ -13,4 +13,4 @@ Left-click: Add cell
 
 Right-click: Remove cell
 
-![Preview Image](https://github.com/nathansmith339/godot-game-of-life/tree/master/assets/preview/preview-image.png)
+![](assets/preview/preview-image.png)
