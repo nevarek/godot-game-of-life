@@ -12,3 +12,5 @@ Space: Continuous mode (toggle run)
 Left-click: Add cell
 
 Right-click: Remove cell
+
+![Preview Image](https://github.com/nathansmith339/godot-game-of-life/tree/master/assets/preview/preview-image.png)
