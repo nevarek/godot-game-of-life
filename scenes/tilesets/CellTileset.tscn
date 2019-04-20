@@ -1,0 +1,17 @@
+[gd_scene load_steps=3 format=2]
+
+[sub_resource type="Gradient" id=3]
+offsets = PoolRealArray( 0.0967742 )
+colors = PoolColorArray( 0, 0.717647, 0.180392, 1 )
+
+[sub_resource type="GradientTexture" id=4]
+gradient = SubResource( 3 )
+
+[node name="CellTileSet" type="Node2D"]
+
+[node name="1" type="Sprite" parent="."]
+position = Vector2( 16, 16 )
+texture = SubResource( 4 )
+region_enabled = true
+region_rect = Rect2( 0, 0, 16, 16 )
+
